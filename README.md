@@ -1,2 +1,1 @@
 # paulowu
-$ git --version
